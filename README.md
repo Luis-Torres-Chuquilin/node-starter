@@ -1,7 +1,5 @@
 <!-- @format -->
 
-This Started use Babelrc to use ES6 syntaxes
-
 # Babelrc for ES6 Syntaxes
 
 This Started use Babelrc to use ES6 syntaxes:
